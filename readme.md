@@ -1,10 +1,10 @@
-# *Clase Phyton I y II*
+# Clase Phyton I y II*
 ###### Martes 14 de julio | Profesor [Ricardo Vega](www.ricardov.cl)
 
 ### Objetivos
 Esta breve clase tiene 2 objetivos principales:  
-1. Entender los fundamentos de programación en Python utilizando el entorno  Drawbot.
-2. Entender como incorporar scripts al trabap de FontLab y Glyphs.  
+- 1. Entender los fundamentos de programación en Python utilizando el entorno  Drawbot.
+- 2. Reconocer el flujo de trabajo básico con scripts en FontLab y Glyphs.  
 
 ### Antes de la clase
 - Instalar editor de texto. TextWrangler (mac http://www.barebones.com/products/TextWrangler/), Brackets (Mac, PC, http://brackets.io/) 
@@ -19,8 +19,8 @@ Esta breve clase tiene 2 objetivos principales:  
 - Intro a Drawbot: Porqué usarlo. Consola, documentación web, interfaz
 - A1- Print y consola (numeros y texto)
 - A2- Dibujar formas básicas (rect, oval, colores)
-- A3- Dibujar texto
- 
+- A3- Dibujar texto.
+
 ### B- Elementos básicos de programación (60)
 - B1- Guardar Datos: Variables, tipos datos, suma, print, str(), int(),
 - B2- Tomar decisiones: Condicionales, if, else, if else
