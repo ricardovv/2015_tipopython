@@ -12,7 +12,7 @@ Esta breve clase tiene 2 objetivos principales:  
 - Ver video sobre Python - https://www.youtube.com/watch?v=CjmzDHMHxwU
 - Instalar tipografia demo (instalar tipografía demofont, 2do parrafo, http://opentypecookbook.com/common-techniques.html) 
 
-### A- Intro a Programación (20)
+### A- Intro a Programaciónusando Drawbot (20)
 - Que es programación (instrucciones, sacar chaleco; ordenado, finito, orientado a fin, secuencia)
 - Lenguajes: Java, C, C++, 
 - Python, características: indentado, secuencial, extensión .py
@@ -42,7 +42,7 @@ Finder/Go(+ options)/Library/Applicatin Support/ 
 HD/Users/Your Username/Library/Application Support/FontLab/ Studio 5.
  
  
-### D- Programación de rutinas en FontLab (FL)- Glyphs (G) (50)
+### D- Programación de rutinas en Glyphs (G) (50)
 - Interfaz
 - D1- G: Ejercicio 1 
 - D2- G: Ejercicio 2 
