@@ -26,8 +26,9 @@ Esta breve clase tiene 2 objetivos principales:  
 - B2- Tomar decisiones: Condicionales, if, else, if else
 - B3- Repetir: Ciclos For, números
 - B4- Colección de Datos: Arrays y loops
-- B5- Reusar: Funciones 
+- B5- Reusar: Funciones
 - B6- Empaquetar: Clases
+- B7- Empaquetar: Clases, ejemplo 2
 
 #### - - - - - - pausa 10 mins. - - - - - - - - - - - - - - - - - - - - - - 
 
