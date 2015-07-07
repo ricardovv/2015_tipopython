@@ -1,3 +1,5 @@
+![Ustedes y programacion](http://meseconomie.com/wp-content/uploads/2012/07/chat-hugs.jpg)
+
 # Clase Phyton I y II*
 ###### Martes 14 de julio | Profesor [Ricardo Vega](www.ricardov.cl)
 
@@ -10,8 +12,9 @@ Esta breve clase tiene 2 objetivos principales: 
 - Instalar Drawbot (solo Mac) - http://drawbot.readthedocs.org/
 - Ver video sobre Python - https://www.youtube.com/watch?v=CjmzDHMHxwU
 - Instalar tipografía demo (ver en siguiente link, en 2do párrafo) - http://opentypecookbook.com/common-techniques.html 
-- Verificar si tiene Python instalado. Abrir Fontlab y ver en Preferences si dice Python installed (como en esta imagen). Si no lo tienen, avisar a rvegamora@gmail.com
 - Descargar clase y ejercicios desde Github (Download Zip, izquierda abajo) - https://github.com/ricardovv/2015_tipopython 
+- Verificar si tiene Python instalado. Abrir Fontlab y ver en Preferences si dice Python installed, como en esta imagen: ![imagen](https://raw.githubusercontent.com/ricardovv/2015_tipopython/master/img/fontlabProperties.png) ).
+- Si no lo tienen, avisar a rvegamora@gmail.com
 
 ### A- Intro a Programación con Drawbot (20)
 - Qué es programación (instrucciones para sacar chaleco; ordenado, finito, orientado a fin, secuencial).
