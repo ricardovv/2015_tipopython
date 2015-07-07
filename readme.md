@@ -1,8 +1,3 @@
-![Ustedes y programacion](http://meseconomie.com/wp-content/uploads/2012/07/chat-hugs.jpg)
-
-Ustedes y la programación
-
-
 # Clase Phyton I y II*
 ###### Martes 14 de julio | Profesor [Ricardo Vega](www.ricardov.cl)
 
