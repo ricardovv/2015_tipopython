@@ -6,7 +6,7 @@
 ### Objetivos
 Esta breve clase tiene 2 objetivos principales: 
 - 1. Entender los fundamentos de programación en Python. Para esto se utilizará Drawbot.
-- 2. Reconocer estos fundamentos en el flujo de trabajo básico con scripts en FontLab y Glyphs. Para esto se ejercitarán algunos scripts básicos en cada programa. 
+- 2. Reconocer dichos fundamentos en el flujo de trabajo básico con scripts en FontLab y Glyphs. Para esto se ejercitarán algunos scripts básicos en cada programa. 
 
 ### Para hacer antes de la clase
 - Instalar Drawbot (solo Mac) - http://drawbot.readthedocs.org/
