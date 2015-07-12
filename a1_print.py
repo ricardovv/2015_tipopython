@@ -1,14 +1,16 @@
 ##- A1- Ejercicio 1: Print y consola (numeros y texto)
 
-##Este es un comentario de una linea
+# Se pueden hacer comentarios que no son ejecutados
+# Con gato se hacen comentarios de una línea
 
 """
-Este es un comentario
-de multiples lineas
-con triple comillas
+Comentarios de múltiples líneas
+usando triple comillas dobles
+Antes y después de lo que se quiere comentar
 """
 
+# print muestra información en la consola de abajo
 print "Esta es la suma: "
 print 2 + 3
 
-print "Tambien se puede escribir asi :" , 2 + 3
+print "También se puede escribir así:" , 2 + 3

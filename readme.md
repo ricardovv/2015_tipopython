@@ -6,14 +6,15 @@
 ### Objetivos
 Esta breve clase tiene 2 objetivos principales: 
 - 1. Entender los fundamentos de programación en Python. Para esto se utilizará Drawbot.
-- 2. Reconocer dichos fundamentos en el flujo de trabajo básico con scripts en FontLab y Glyphs. Para esto se ejercitarán algunos scripts básicos en cada programa. 
+- 2. Reconocer estos fundamentos en el flujo de trabajo básico con scripts en FontLab y/o Glyphs. Para esto se ejercitarán algunos scripts básicos en cada programa. 
 
 ### Para hacer antes de la clase
 - Instalar Drawbot (solo Mac) - http://drawbot.readthedocs.org/
-- Ver video sobre Python - https://www.youtube.com/watch?v=CjmzDHMHxwU
-- Descargar clase y ejercicios desde Github (Download Zip, derecha abajo) - https://github.com/ricardovv/2015_tipopython 
+- Descargar clase y ejercicios desde Github (Download Zip, derecha abajo) https://github.com/ricardovv/2015_tipopython 
 - Verificar si tiene Python instalado. Abrir Fontlab y ver en Preferences si dice Python installed, como en esta imagen: ![imagen](https://raw.githubusercontent.com/ricardovv/2015_tipopython/master/img/fontlabProperties.png)
 - Si no lo tienen, avisar a rvegamora@gmail.com
+- Ver video sobre Python - https://www.youtube.com/watch?v=CjmzDHMHxwU
+- Instalar EBGaramond-0.016.zip de la carpeta 
 
 ### A- Intro a Programación con Drawbot (20)
 - Qué es programación (instrucciones para sacar chaleco; ordenado, finito, orientado a fin, secuencial).
@@ -53,6 +54,7 @@ Esta breve clase tiene 2 objetivos principales: 
 - D4- G: Instalar rutinas externas (macro)
 
 ### E- Recursos y buscar más, cierre (10)
+- Referencia a funciones de Drawbot http://drawbot.readthedocs.org/genindex.html 
 - Recursos desde Github, como usarlos.  
 - Rutinas de terceros 
 - Dancing Shoes - http://yanone.de/typedesign/code/dancingshoes/
@@ -70,5 +72,5 @@ Esta breve clase tiene 2 objetivos principales: 
 - http://e-font.de/flpydoc/view_html.html
 - Fontlab Manual, capitulo 13 - http://old.fontlab.com/font-editor/fontlab-studio/
 - https://en.wikibooks.org/wiki/FontLab/Scripting
-
+- Mas info sobre Garamond Opensource For more infos please visit www.georgduffner.at/ebgaramond/
 

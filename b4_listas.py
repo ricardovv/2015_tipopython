@@ -1,17 +1,20 @@
 # B4- Colección de Datos: Arrays y loops
+# Arrays es una lista de variables, una colección de datos
 
-# Arrays es una lista de variables, una coleccion de datos
 # se declara, se asignan valores, se usan
-# tiene valor 
-# y posicion o index, posicion inicial es 0, NO 1
 
-#a- de un mismo elemento o tipo de datos
+# tienen valores 
+# y posición o index (posición inicial es 0, NO 1)
+
+
+ 
+#a- arrays de un mismo elemento o tipo de datos
 iguales = [1, 50, 45, -4]
 print iguales
 
 
-#b- de diversos elementos o tipos de datos
 """
+#b- arrays de diversos elementos o tipos de datos
 diversos = [1, 50, "hola", (10, "dos")]
 print diversos
 """
@@ -25,7 +28,9 @@ personajes = ["Godzila", "Ultraman", "Mazinger"]
 # por todos los personajes: "para cada uno en la lista"
 for mono in personajes:
     print mono
+    # print personajes[1]
 """
+
 
 
 """

@@ -5,16 +5,16 @@
 # como un molde para hacer galletas y la galleta
 
 # CLASE - - - - - - - - - - - - - - - - 
-# la clase "define" un objeto y sus caracteristicas, pero no "existe"
-# tiene datos y metodos
+# la clase "define" un objeto y sus características, pero no "existe"
+# tiene datos y métodos
 class Personaje():
 
-    # definicion
-    def cabeza(self):#self parametro de un metodo enel objeto
+    # definición
+    def cabeza(self):#self parámetro de un método en el objeto
         fill(.4, .5, .8)
-        oval(posx+10, 50, 100, 120)
+        oval(10, 50, 100, 120)
 
-    # definicion
+    # definición
     def saludar(self):
         fill(.2, .9)
         fontSize(24)
@@ -27,6 +27,9 @@ class Personaje():
 cone = Personaje()
 hulk = Personaje()
 
-# luego se acceden a sus metodos
+# luego se acceden a sus métodos
+# problema, tyodos comoarten las mismas propiedades
 cone.cabeza()
 cone.saludar()
+
+# hulk.cabeza()
