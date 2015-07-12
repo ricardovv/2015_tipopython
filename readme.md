@@ -11,11 +11,11 @@ Esta breve clase tiene 2 objetivos principales: 
 ### Para hacer antes de la clase
 - Instalar Drawbot (solo Mac) - http://drawbot.readthedocs.org/
 - Descargar clase y ejercicios desde Github (Download Zip, derecha abajo) https://github.com/ricardovv/2015_tipopython 
-- Verificar si tiene Python instalado. Abrir Fontlab y ver en Preferences si dice Python installed, como en esta imagen: ![imagen](https://raw.githubusercontent.com/ricardovv/2015_tipopython/master/img/fontlabProperties.png)
+- Verificar si tiene Python instalado. Abrir Fontlab y ver en Preferences si dice Python installed, como en la siguiente [imagen](https://raw.githubusercontent.com/ricardovv/2015_tipopython/master/img/fontlabProperties.png)
 - Si no lo tienen, avisar a rvegamora@gmail.com
 - Ver video sobre Python - https://www.youtube.com/watch?v=CjmzDHMHxwU
-- Instalar EBGaramond-0.016.zip de la carpeta 
-
+- Desde la carpeta files, instalar tipografia de prueba EBGaramond-0.016.zip
+ 
 ### A- Intro a Programación con Drawbot (20)
 - Qué es programación (instrucciones para sacar chaleco; ordenado, finito, orientado a fin, secuencial).
 - Bajo y alto nivel. Lenguaje Natural. Lenguajes de programación: Java, C, C++, JavaScript, Python, etc.  
