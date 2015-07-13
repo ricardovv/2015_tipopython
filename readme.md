@@ -15,10 +15,14 @@ Esta breve clase tiene 2 objetivos principales: 
 - Si no lo tienen, avisar a rvegamora@gmail.com
 - Ver video sobre Python - https://www.youtube.com/watch?v=CjmzDHMHxwU
 - Desde la carpeta files, instalar tipografia de prueba EBGaramond-0.016.zip
- 
+
+#### - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - -
+#####ESTRUCTURA DE LA CLASE
+#### - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - -
+
 ### A- Intro a Programación con Drawbot (20)
 - Qué es programación (instrucciones para sacar chaleco; ordenado, finito, orientado a fin, secuencial).
-- Bajo y alto nivel. Lenguaje Natural. Lenguajes de programación: Java, C, C++, JavaScript, Python, etc.  
+- Bajo y alto nivel. Lenguaje Natural. Lenguajes de programación: Java, C, C++, JavaScript, Python, [Arnold](http://lhartikk.github.io/ArnoldC), etc.  
 - Python, características: indentado, secuencial, ordenado, legible, orientado a Objetos (OOP) extensión .py
 - Intro a Drawbot: Por qué usarlo. Consola, documentación web, interfas. 
 - A1- Print y consola (números y texto, operaciones, sumar y concatenar).
@@ -34,7 +38,9 @@ Esta breve clase tiene 2 objetivos principales: 
 - B6- Empaquetar: Clases, ejemplo 1
 - B7- Empaquetar: Clases, ejemplo 2
 
-#### - - - - - - pausa 10 mins. - - - - - - - - - - - - - - - - - - - - - - 
+#### - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - -
+#####Pausa 10 mins.
+#### - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - -
 
 ### C- Programación de rutinas en FontLab (FL) (30)
 - Interfas
@@ -54,23 +60,24 @@ Esta breve clase tiene 2 objetivos principales: 
 - D4- G: Instalar rutinas externas (macro)
 
 ### E- Recursos y buscar más, cierre (10)
-- Referencia a funciones de Drawbot http://drawbot.readthedocs.org/genindex.html 
-- Recursos desde Github, como usarlos.  
-- Rutinas de terceros 
+- Referencia a funciones de Drawbot http://drawbot.readthedocs.org/genindex.html  
 - Dancing Shoes - http://yanone.de/typedesign/code/dancingshoes/
 - Otros tutoriales - https://www.glyphsapp.com/tutorials/scripting-glyphs-part-1
+accounts/501730/events/4118534/videos/90038666
+- Fontlab Manual, capitulo 12 - http://old.fontlab.com/font-editor/fontlab-studio/
+- Unofficial FontLab/Python API Reference http://e-font.de/flpydoc/view_html.html
+- https://atom.io/packages/python-for-glyphs
+
+#### - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - -
+#####OTRAS REFERENCIAS
+#### - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - -
+- Instalar Python - http://www.acadacual.es/instalar-python 
+- Este documento fue escrito en MarkDown http://dillinger.io 
+- Blog de Fontlab - http://blog.fontlab.com/fontlab/fontlab-studio-5/python-scripting/
+- https://en.wikibooks.org/wiki/FontLab/Scripting
 - Sobre creación y código. Processing, Form+Code http://formandcode.com  
 - Codigo en Indesign Basil.js - http://basiljs.ch/
 - Presentacion sobre Tipografía y Código - http://issuu.com/ricardov_net/docs/tipografia_y_codigo
-- Charla Erik van Blokland (desde 1:50 a 2:15 aprox) - http://livestream.com/accounts/501730/events/4118534/videos/90038666
-- https://atom.io/packages/python-for-glyphs
-
-### F- Otros
-- Instalar Python - http://www.acadacual.es/instalar-python 
-- Escrito en MarkDown - http://dillinger.io 
-- Blog de Fontlab - http://blog.fontlab.com/fontlab/fontlab-studio-5/python-scripting/
-- http://e-font.de/flpydoc/view_html.html
-- Fontlab Manual, capitulo 13 - http://old.fontlab.com/font-editor/fontlab-studio/
-- https://en.wikibooks.org/wiki/FontLab/Scripting
+- Charla Erik van Blokland (desde 1:50 a 2:15 aprox) - http://livestream.com/
 - Mas info sobre Garamond Opensource For more infos please visit www.georgduffner.at/ebgaramond/
 
