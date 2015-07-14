@@ -5,7 +5,7 @@
 
 ### Objetivos
 Esta breve clase tiene 2 objetivos principales: 
-- 1. Entender los fundamentos de programación en Python. Para esto se utilizará Drawbot.
+- 1. Entender los fundamentos de programación en Python. Para esto se realiarán ejercicios Drawbot.
 - 2. Reconocer estos fundamentos en el flujo de trabajo básico con scripts en FontLab y/o Glyphs. Para esto se ejercitarán algunos scripts básicos en cada programa. 
 
 ### Para hacer antes de la clase
@@ -29,7 +29,7 @@ Esta breve clase tiene 2 objetivos principales: 
 - A2- Dibujar formas básicas (rect, oval, colores).
 - A3- Dibujar texto.
 
-### B- Elementos básicos de programación (60)
+### B- Elementos básicos de programación (90)
 - B1- Guardar Datos: Variables, tipos datos, suma, print, str(), int()
 - B2- Tomar decisiones: Condicionales, if, else, if else
 - B3- Repetir: Ciclos For, números
@@ -46,18 +46,17 @@ Esta breve clase tiene 2 objetivos principales: 
 - Interfas
 - C1- FL: Ejercicio 1 
 - C2- FL: Ejercicio 2 
-- C3- FL: Escribir una rutina básica (macro), guardarla e instalarla para Fontlab.  
-- C4- FL: Instalar rutinas externas (macro) 
+- C3- FL: Ejercicio 3
 - Ruta: View/Toolbars/Macro
 - Ruta: Finder/Go(+ options)/Library/Applicatin Support/ 
 - Rutas: HD/Users/Your Username/Library/Application Support/FontLab/ Studio 5.
- 
-### D- Programación de rutinas en Glyphs (G) (50)
+
+### D- Programación de rutinas en Glyphs (G) (20)
 - Interfas
 - D1- G: Ejercicio 1 
 - D2- G: Ejercicio 2 
-- D3- G: Escribir una rutina básica (macro), guardarla e instalarla para Glyphs.  
-- D4- G: Instalar rutinas externas (macro)
+- D3- G: Ejercicio 3 
+- Como leer: Python Scripting API Documentation: http://docu.glyphsapp.com/
 
 ### E- Recursos y buscar más, cierre (10)
 - Referencia a funciones de Drawbot http://drawbot.readthedocs.org/genindex.html  
@@ -69,7 +68,7 @@ accounts/501730/events/4118534/videos/90038666
 - https://atom.io/packages/python-for-glyphs
 
 #### - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - -
-#####OTRAS REFERENCIAS
+#####OTRAS REFERENCIAS (10)
 #### - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - -
 - Instalar Python - http://www.acadacual.es/instalar-python 
 - Este documento fue escrito en MarkDown http://dillinger.io 
