@@ -1,10 +1,11 @@
 #C3- Scripts para Fontlab
-#Todos los ejemplos originales pertenencen  de de Pablo Impalari
+#Todos los ejemplos originales pertenencen a Pablo Impalari
+
 #https://github.com/impallari/Impallari-Fontlab-Macros/blob/master/IMP%20Guidelines/3%20Center%20Current.py
 
 
 #1 - - - - - - - - - - - - - - - - - - - - 
-# Coloca guia en el centrod el glyph seleccionado 
+# Coloca guía en el centro del glyph seleccionado 
 https://github.com/impallari/Impallari-Fontlab-Macros/blob/master/IMP%20Guidelines/3%20Center%20Current.py
 
 

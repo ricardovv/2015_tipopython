@@ -4,18 +4,21 @@
 
 # definir las propiedades, usarla ingreando nuevos valores, si corresponde
 
-# definición de la función y lo que hace
+
+
+#a definición de la función y lo que hace
 def mynombre(nom):
     print nom
     
-# uso, el valor entra
+# uso, el valor "entra" a su posicion
 mynombre("hi")     
 mynombre("chao")
 
 
 
+
 """
-# definicion
+#b definicion
 def caja(nombre, edad, posx):
     fill(.9, .2, edad/200)
     rect(posx, 100, 98, edad*5)

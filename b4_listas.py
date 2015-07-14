@@ -2,26 +2,29 @@
 # Arrays es una lista de variables, una colección de datos
 
 # se declara, se asignan valores, se usan
-
 # tienen valores 
 # y posición o index (posición inicial es 0, NO 1)
 
 
  
-#a- arrays de un mismo elemento o tipo de datos
+#1 arrays de un mismo elemento o tipo de datos
 iguales = [1, 50, 45, -4]
 print iguales
 
 
+
+
 """
-#b- arrays de diversos elementos o tipos de datos
+#2 arrays de diversos elementos o tipos de datos
 diversos = [1, 50, "hola", (10, "dos")]
 print diversos
 """
 
 
+
+
 """
-#c- Acceder a uno de los valores
+#3 Acceder a uno de los valores
 personajes = ["Godzila", "Ultraman", "Mazinger"]
 #print personajes[3] # entre braqckets el index
 
@@ -33,8 +36,9 @@ for mono in personajes:
 
 
 
+
 """
-#d- agrupar y representar datos
+#4 agrupar y representar datos
 nombre  = ["juan", "maria", "alicia", "pancho", "lucho"]
 edad     = [30, 45, 16, 28, 87]
 largo = len(nombre) # cantidad de elementos
@@ -47,6 +51,5 @@ for i in range(0, largo):
     fill(0)
     fontSize(20)
     textBox(nombre[i], (posx, 170, 200, 30) )
-"""    
-    
-    
+"""
+

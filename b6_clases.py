@@ -4,8 +4,10 @@
 # tiene dos partes,  la "Clase" y el "Objeto"    
 # como un molde para hacer galletas y la galleta
 
-# CLASE - - - - - - - - - - - - - - - - 
-# la clase "define" un objeto y sus características, pero no "existe"
+
+
+#1 CLASE - - - - - - - - - - - - - - - -
+# definición de la clase. Se "define" una clase y sus características, pero esta clase no "existe"
 # tiene datos y métodos
 class Personaje():
 
@@ -21,15 +23,19 @@ class Personaje():
         textBox("Hola", (30, 100, 150, 50) )
 
 
-# OBJETO - - - - - - - - - - - - - - - - 
+
+
+#2 OBJETO - - - - - - - - - - - - - - - - 
 # Hace que el "objeto" exista
 # primeto se asigna a una variable
 cone = Personaje()
 hulk = Personaje()
 
-# luego se acceden a sus métodos
+
+# luego se acceden a sus métodos usando notación de punto (.)
 # problema, tyodos comoarten las mismas propiedades
 cone.cabeza()
 cone.saludar()
 
 # hulk.cabeza()
+

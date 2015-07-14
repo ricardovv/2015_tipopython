@@ -1,19 +1,19 @@
 # B2- Tomar decisiones: Condicionales, if, else, if else
 # if pregunta por una condición
-# si es se da esa condición, pasa algo
-# os ea si es verdadero o falso
+# si se dá esa condición, pasa algo
+# osea si es verdadero o falso (True-False, si-no, 1-0)
 
-"""
-"""
-# Ejemplo if
-luz = "on" # o puede ser 1 o 0
-if (luz == "on"):
+
+#1 Ejemplo if
+luz = False # o puede ser 1 o 0
+
+if (luz == True):
     print "La luz esta encendida"
 
 
 
 """
-# if & else
+#2 if & else
 a = 10 # variable
 b = 20 # variable
 
@@ -26,7 +26,7 @@ else: # si es falso, sucede esto
    
     
 """
-# if, else if, else
+#3 if, else if, else
 # juan tiene hambre y plata?
 
 si = True

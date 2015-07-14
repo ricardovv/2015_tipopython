@@ -1,4 +1,4 @@
-#C1- Scripts para Fontlab
+#C2- Scripts para Fontlab
 # referencias fontlab clases y metodos
 # http://www.e-font.de/flpydoc/ 
 # font lista de glyphs, glyphs lista de nodos y otros objetos
@@ -14,7 +14,7 @@
 from FL import *
 
 """		 
-#1
+#1 encontrar una cadena de caractetres en el nombre
 for g in fl.font.glyphs:
 	#chi, f_, .sc, .cap, circumflex
 	#inferior, bullet, acute, oldstyle, comma, ord, _
@@ -22,6 +22,9 @@ for g in fl.font.glyphs:
 		print g.name
 		print "-------" 
 """
+
+
+
 
 """
 #2 usando variables
@@ -39,22 +42,25 @@ for g in f:
 
 
 
-# - - - - - - - - - - - 
-# encuentra un valor en el nombre del glyph y lo destaca    
-from FL import *
+
 
 """
+#3 encuentra un valor en el nombre del glyph y lo destaca    
+from FL import *
 #imprime el nombre de todos los glyphs
-#como se podran numerar?
+#como se podran numerarr del 1 al final?
 gs = fl.font.glyphs
 for g in gs:
-		print "- - -r ", g.name
+		print "- - - ", g.name
 """
 
 
+
+
 """
-#busca glyphs c ciertas palabas en su nombre
+#4 busca glyphs c ciertas palabas en su nombre
 #las masrca y las imprime
+
 for g in gs:
 	#chi, f_, .sc, .cap, circumflex
 	#inferior, bullet, acute, oldstyle, comma, ord, _
@@ -68,16 +74,18 @@ fl.UpdateFont(fl.ifont)
 """
  
 
+
+
 """
-# - - - - - - - - - - - 
-# Ejemplo de FontLab Studio manual PDF 
+#5 Ejemplo de FontLab Studio manual PDF 
 # Encontrar glyphs vacios (sin outline o componentes), como “espacio” 
 from FL import * 
+
 num = 0 #contador parte en cero 
 for g in fl.font.glyphs:
     if len(g) == 0 and len(g.components) == 0:
         print num, "- ", g.name 
-        num+=1 # se le agrega uno a lo que vale		
+        num+=1 # se le agrega uno a lo que vale	
         print "-------"
 """
 

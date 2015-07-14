@@ -4,9 +4,10 @@
 ###### Martes 14 de julio | Profesor [Ricardo Vega](www.ricardov.cl)
 
 ### Objetivos
-Esta breve clase tiene 2 objetivos principales: 
-- 1. Entender los fundamentos de programación en Python. Para esto se realiarán ejercicios Drawbot.
-- 2. Reconocer estos fundamentos en el flujo de trabajo básico con scripts en FontLab y/o Glyphs. Para esto se ejercitarán algunos scripts básicos en cada programa. 
+Esta breve clase tiene 2 objetivos principales.
+
+- 1 Entender los fundamentos de programación en Python. Para esto se realizarán ejercicios básicos en Drawbot. 
+- 2 Reconocer estos fundamentos en el flujo de trabajo básico con scripts en FontLab y/o Glyphs. Para esto se ejercitarán algunos scripts básicos en cada programa. 
 
 ### Para hacer antes de la clase
 - Instalar Drawbot (solo Mac) - http://drawbot.readthedocs.org/
@@ -22,7 +23,7 @@ Esta breve clase tiene 2 objetivos principales: 
 
 ### A- Intro a Programación con Drawbot (20)
 - Qué es programación (instrucciones para sacar chaleco; ordenado, finito, orientado a fin, secuencial).
-- Bajo y alto nivel. Lenguaje Natural. Lenguajes de programación: Java, C, C++, JavaScript, Python, [Arnold](http://lhartikk.github.io/ArnoldC), etc.  
+- Bajo y alto nivel. Lenguaje Natural. Lenguajes de programación: C, C++, Java, JavaScript, Python, [Arnold](http://lhartikk.github.io/ArnoldC), etc.  
 - Python, características: indentado, secuencial, ordenado, legible, orientado a Objetos (OOP) extensión .py
 - Intro a Drawbot: Por qué usarlo. Consola, documentación web, interfas. 
 - A1- Print y consola (números y texto, operaciones, sumar y concatenar).
@@ -36,7 +37,8 @@ Esta breve clase tiene 2 objetivos principales: 
 - B4- Colección de Datos: Arrays y loops
 - B5- Reusar: Funciones
 - B6- Empaquetar: Clases, ejemplo 1
-- B7- Empaquetar: Clases, ejemplo 2
+- B7- Empaquetar: Clases, ejemplo 2 
+- B8- Empaquetar: Clases, ejemplo 3 basado en [Gustavo Ferreira](https://gist.github.com/gferreira/10da8431c22a205d4ca1)
 
 #### - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - -
 #####Pausa 10 mins.
@@ -61,22 +63,22 @@ Esta breve clase tiene 2 objetivos principales: 
 ### E- Recursos y buscar más, cierre (10)
 - Referencia a funciones de Drawbot http://drawbot.readthedocs.org/genindex.html  
 - Dancing Shoes (Python powered OpenType feature generator ) http://yanone.de/typedesign/code/dancingshoes/
-- Otros tutoriales - https://www.glyphsapp.com/tutorials/scripting-glyphs-part-1
+- Otros tutoriales https://www.glyphsapp.com/tutorials/scripting-glyphs-part-1
 accounts/501730/events/4118534/videos/90038666
-- Fontlab Manual, capitulo 12 - http://old.fontlab.com/font-editor/fontlab-studio/
+- Fontlab Manual, capítulo 12 - http://old.fontlab.com/font-editor/fontlab-studio/
 - Unofficial FontLab/Python API Reference http://e-font.de/flpydoc/view_html.html
 - https://atom.io/packages/python-for-glyphs
 
 #### - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - -
 #####OTRAS REFERENCIAS (10)
 #### - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - -
-- Instalar Python - http://www.acadacual.es/instalar-python 
-- Este documento fue escrito en MarkDown http://dillinger.io 
-- Blog de Fontlab - http://blog.fontlab.com/fontlab/fontlab-studio-5/python-scripting/
+- Instalar Python http://www.acadacual.es/instalar-python 
+- Este documento fué escrito en MarkDown http://dillinger.io 
+- Blog de Fontlab http://blog.fontlab.com/fontlab/fontlab-studio-5/python-scripting/
 - https://en.wikibooks.org/wiki/FontLab/Scripting
 - Sobre creación y código. Processing, Form+Code http://formandcode.com  
-- Codigo en Indesign Basil.js - http://basiljs.ch/
-- Presentacion sobre Tipografía y Código - http://issuu.com/ricardov_net/docs/tipografia_y_codigo
-- Charla Erik van Blokland (desde 1:50 a 2:15 aprox) - http://livestream.com/
+- Código en Indesign Basil.js - http://basiljs.ch/
+- Presentación sobre Tipografía y Código http://issuu.com/ricardov_net/docs/tipografia_y_codigo
+- Charla Erik van Blokland (desde 1:50 a 2:15 aprox) http://livestream.com/
 - Mas info sobre Garamond Opensource For more infos please visit www.georgduffner.at/ebgaramond/
 
