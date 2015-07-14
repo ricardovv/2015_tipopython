@@ -34,14 +34,16 @@ from FL import *
 
 #print fl.font.glyphs[12].width # ver el ancho de un glyph dado
 
+#print fl.iglyph # Index of the currently active glyph in the current font
+#print fl.count_selected # cuenta cuantos glyphs estan seleccionados de la paleta		
+#print fl.font.features[2] #list of opentype features
 
-#####
-print fl.font.features[2] #list of opentype features
-
-
+# Fontlab reference
+#print Font().__doc__
 # C1.a - Lista de los gliphs en una fuente 
 for l in fl.font.glyphs:
 	print l.name
+	
 	
 	
 # lo mismo pero c variables	
@@ -52,6 +54,7 @@ misletras = mifuente.glyphs
 for l in misletras:
 	print l.name
 """
+
 
 # Com recorrerlos todos usando ciclo for 
 for g in fl.font.glyphs:

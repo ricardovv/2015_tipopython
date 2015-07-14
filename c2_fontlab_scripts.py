@@ -2,30 +2,30 @@
 # referencias fontlab clases y metodos
 # http://www.e-font.de/flpydoc/ 
 
-
 from FL import * 
-
-
-
-
 
 # Crear, nombrar y guardar programas porpios
 #FLM: Nombre del Programa
 
 
+
 # - - - - - - - - - - - 
 # Ejemplo de FontLab Studio manual PDF 
-#Suppose we want to find all the glyphs that are empty: 
-#i.e. don’t have an outline or any components. 
-#The “space” is a good example of such a glyph.
-
+# Encontrar glyphs vacios (sin outline o componentes), como “espacio” 
+num = 0 #contador parte en cero 
 for g in fl.font.glyphs:
-	if len(g) == 0 and len(g.components) == 0:
-		print g.name
-		
+    if len(g) == 0 and len(g.components) == 0:
+        print num, "- ", g.name 
+        num+=1 # se le agrega uno a lo que vale		
+        print "-------"
+       
 
 # - - - - - - - - - - - 
-print "-------"
-#print fl.iglyph # Index of the currently active glyph in the current font
-print fl.count_selected # cuent uantos glyphs estan seleccionados
-		
+for g in fl.glyphs:
+    if ".onum" in g.name
+        print g.name
+        print "-------" 
+        
+for g in fl.font.glyphs:
+	if ".onum" in g.name:
+		print g.name        

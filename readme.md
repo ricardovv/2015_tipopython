@@ -61,7 +61,7 @@ Esta breve clase tiene 2 objetivos principales: 
 
 ### E- Recursos y buscar más, cierre (10)
 - Referencia a funciones de Drawbot http://drawbot.readthedocs.org/genindex.html  
-- Dancing Shoes - http://yanone.de/typedesign/code/dancingshoes/
+- Dancing Shoes (Python powered OpenType feature generator ) http://yanone.de/typedesign/code/dancingshoes/
 - Otros tutoriales - https://www.glyphsapp.com/tutorials/scripting-glyphs-part-1
 accounts/501730/events/4118534/videos/90038666
 - Fontlab Manual, capitulo 12 - http://old.fontlab.com/font-editor/fontlab-studio/
