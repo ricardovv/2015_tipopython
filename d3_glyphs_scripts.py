@@ -1,5 +1,7 @@
 #D3- Scripts en Gyphs
-#de la web de Glyphs
+# ejemplos tomados desde la web de Glyphs
+# solo para uso educacional
+
 
 
 #- - - - - - - - - - - - 
@@ -9,7 +11,6 @@ for thisLayer in myLayers:
   print thisLayer.parent.name
   print thisLayer.paths
   
-
 
   
 #- - - - - - - - - - - - 
@@ -24,12 +25,9 @@ for thisLayer in myLayers:
       thisNode.x += random.randint( -50, 50 )  
       
  
-
-
-
       
 #- - - - - - - - - - - - 
-# de mekkablue: https://github.com/mekkablue/Glyphs-Scripts/blob/master/Paths/Fill%20Up%20with%20Rectangles.py
+# Ejemplo pertenece a mekkablue: https://github.com/mekkablue/Glyphs-Scripts/blob/master/Paths/Fill%20Up%20with%20Rectangles.py
      
 #MenuTitle: Fill Up with Rectangles
 # -*- coding: utf-8 -*-
@@ -95,7 +93,7 @@ Font.enableUpdateInterface()
 
 
 #- - - - - - - - - - - - 
-#mekkablue https://github.com/mekkablue/Glyphs-Scripts/blob/master/Effects/Beowulferize.py
+# Ejemplo pertenece a mekkablue: mekkablue https://github.com/mekkablue/Glyphs-Scripts/blob/master/Effects/Beowulferize.py
 
 #MenuTitle: Beowulferize
 # -*- coding: utf-8 -*-
@@ -240,6 +238,8 @@ for i in range( ( alphabets * ( linelength//alphabets ) + 1 ), 0, -1 ):
 print create_otfeature( featurename="calt", featurecode=beowulfCode, targetfont=Font, codesig="BEOWULFERIZER")
 
 Font.enableUpdateInterface()
+
+
 
 
 

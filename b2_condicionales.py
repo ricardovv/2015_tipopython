@@ -1,11 +1,11 @@
 # B2- Tomar decisiones: Condicionales, if, else, if else
 # if pregunta por una condición
-# si se dá esa condición, pasa algo
-# osea si es verdadero o falso (True-False, si-no, 1-0)
-
+# si se cumple esa condición, pasa algo
+# True o False es una variable boleana, o sea tiene 
+# osea tiene 2 posibles estados: verdadero o falso (True-False, si-no, 1-0)
 
 #1 Ejemplo if
-luz = False # o puede ser 1 o 0
+luz = True # o puede ser 1 o 0
 
 if (luz == True):
     print "La luz esta encendida"
@@ -24,26 +24,26 @@ else: # si es falso, sucede esto
 """
 
    
-    
-"""
+   
+"""    
 #3 if, else if, else
-# juan tiene hambre y plata?
-
+# juan tiene hambre y dinero?
 si = True
 no = False
 
 hambre = si 
-plata = si
+dinero = no
 
-if (hambre == si) & (plata == si): # si es verdadero, pasa lo siguiente   
-    print "Juan se come churrasco" 
+if (hambre == si) & (dinero == si): # si es verdadero, pasa lo siguiente   
+    print "Juan se come un sandwich" 
 
-elif ( (hambre == si) & (plata == no) ):
+elif ( (hambre == si) & (dinero == no) ):
     print "Juan pide plata a su mamá"
 
 else:
     print "Juan se queda con hambre"
-"""    
+
+"""   
     
 
 

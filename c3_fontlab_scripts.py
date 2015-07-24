@@ -1,7 +1,7 @@
 #C3- Scripts para Fontlab
-#Todos los ejemplos originales pertenencen a Pablo Impalari
+# Todos los ejemplos originales pertenencen a Pablo Impalari
 
-#https://github.com/impallari/Impallari-Fontlab-Macros/blob/master/IMP%20Guidelines/3%20Center%20Current.py
+# https://github.com/impallari/Impallari-Fontlab-Macros/blob/master/IMP%20Guidelines/3%20Center%20Current.py
 
 
 #1 - - - - - - - - - - - - - - - - - - - - 
@@ -10,7 +10,7 @@ https://github.com/impallari/Impallari-Fontlab-Macros/blob/master/IMP%20Guidelin
 
 
 #2 - - - - - - - - - - - - - - - - - - - - 
-#Limpia la sguias en todos los Glyphs
+#Limpia las guías en todos los Glyphs
 https://github.com/impallari/Impallari-Fontlab-Macros/blob/master/IMP%20Guidelines/8%20Clear%20All%20Guides%20All.py
 
 

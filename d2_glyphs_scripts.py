@@ -1,11 +1,14 @@
 #D2- Scripts en Gyphs
-#de la web de Glyphs
+# ejemplos tomados desde la web de Glyphs
+# solo para uso educacional
+
+
 
 #mostrando los objetos 
 print Glyphs.fonts # fuente abierta
 print Glyphs.currentDocument # fuente actual
 print Glyphs.font.glyphs #objeto glyph
-print Glyphs.font.glyphs[7] #objeto glyph por su posicion en la lista
+print Glyphs.font.glyphs[7] #objeto glyph por su posición en la lista
 
 
 #por propiedades

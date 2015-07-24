@@ -1,6 +1,6 @@
 ![Ustedes y programacion](http://meseconomie.com/wp-content/uploads/2012/07/chat-hugs.jpg)
 
-# Clase Phyton I y II*
+# Clase Phyton I y II.
 ###### Martes 14 de julio | Profesor [Ricardo Vega](www.ricardov.cl)
 
 ### Objetivos
@@ -81,4 +81,3 @@ accounts/501730/events/4118534/videos/90038666
 - Presentación sobre Tipografía y Código http://issuu.com/ricardov_net/docs/tipografia_y_codigo
 - Charla Erik van Blokland (desde 1:50 a 2:15 aprox) http://livestream.com/
 - Mas info sobre Garamond Opensource For more infos please visit www.georgduffner.at/ebgaramond/
-

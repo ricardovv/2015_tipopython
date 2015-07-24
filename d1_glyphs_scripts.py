@@ -1,5 +1,7 @@
 #D1- Scripts en Gyphs
 #Window/Macro Panel
+#colocar estos ejemplos en el panel de scripts de Glyphs
+
 
 
 #- - - - - - - - - - - 
@@ -34,7 +36,5 @@ lista = ["juan es 0", "pedro es 1", "jose es 2"]
 print lista[2]
 
 
-#- - - - - - - - - - - 
-#funciones y clases...
 
 

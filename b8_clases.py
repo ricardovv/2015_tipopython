@@ -1,5 +1,5 @@
 # B8, CLASES
-# Ejemplo basado en Gustavo Ferreira. 
+# Ejemplo basado en ejemplo de Gustavo Ferreira. 
 # https://gist.github.com/gferreira/10da8431c22a205d4ca1
 
 
@@ -18,21 +18,16 @@ class Square(object):
         rect(x, y, 30, 30)
 
 
-"""        
+ 
 #2 se accede a los métodos de cada cuadrado        
 S = Square(100)
-S.draw((100, 100))
- 
+
 S.fillColor = 0, 1, 0
 S.draw((100, 300))
-
-S.fillColor = 1, 1, 0
-S.draw((100, 500))
 
 
 for i in range(0, 20):
     for j in range(0, 20):
         S.fillColor = .1+i/20, i/10, 0
         S.draw((i*40, j*40))
-"""        
-        
+         

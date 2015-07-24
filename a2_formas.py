@@ -3,7 +3,7 @@
 ## El punto 0,0 está abajo a la izquierda. 
 
 
-#1 rectangulo gris
+#1 rectángulo gris
 fill(.5) # color rgb y alpha, rango de 0 a 1, tambien cmyk
 rect(0, 0, 100, 100) # orden de los argumentos pos x, pos y, ancho, alto
 

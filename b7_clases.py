@@ -5,12 +5,12 @@
 class Personaje():
 
     # definicion
-    def cabeza(self, posx):#self parametro de un metodo enel objeto
+    def cabeza(self, posx): #self parametro de un metodo en el objeto
         fill(.3, .5, posx/300)
         oval(posx+10, 50, 80, 100)
 
     # definicion
-    def saludar(self, posx, nombre):
+    def saludar(self, posx, nombre): # posx y nombre recibirán valores que se les entreguen
         texto = "soy\n" + nombre
         fill(.2, .9)
         fontSize(20)
@@ -34,6 +34,7 @@ hulk.saludar(300, "Hulk")
 
 
 #3 muchos Personajes...
+# usando for
 for i in range(0, 20):
     hulk.cabeza(100*i)
     hulk.saludar(100*i, "Hulk"+str(i)    )

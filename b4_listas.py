@@ -1,16 +1,17 @@
 # B4- Colección de Datos: Arrays y loops
 # Arrays es una lista de variables, una colección de datos
 
-# se declara, se asignan valores, se usan
-# tienen valores 
-# y posición o index (posición inicial es 0, NO 1)
+# como las variables, se declaran, se asignan valores, se usan
+# tienen valores y posición (o index)
+# la posición inicial es 0, NO 1 
 
 
  
+"""
 #1 arrays de un mismo elemento o tipo de datos
 iguales = [1, 50, 45, -4]
 print iguales
-
+"""
 
 
 
@@ -22,22 +23,19 @@ print diversos
 
 
 
-
 """
 #3 Acceder a uno de los valores
 personajes = ["Godzila", "Ultraman", "Mazinger"]
 #print personajes[3] # entre braqckets el index
 
-# por todos los personajes: "para cada uno en la lista"
+# mono pasa por todos los personajes: "para cada mono en la lista personajes"
 for mono in personajes:
-    print mono
-    # print personajes[1]
-"""
+    #print mono
+    print personajes[2]
+""" 
 
 
 
-
-"""
 #4 agrupar y representar datos
 nombre  = ["juan", "maria", "alicia", "pancho", "lucho"]
 edad     = [30, 45, 16, 28, 87]
@@ -51,5 +49,5 @@ for i in range(0, largo):
     fill(0)
     fontSize(20)
     textBox(nombre[i], (posx, 170, 200, 30) )
-"""
+
 

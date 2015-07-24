@@ -5,8 +5,7 @@
 # abrir una fuente de prueba (por ejemplo EBGaramond-0.016)
 # abrir panel para scripts: View/Tolbars/Macro
 
-
-# estas lineas "importa" un  modulo propio de FontLab (existe solo en Fontlab)
+# estas lineas "importa" un modulo propio de FontLab (existe solo en Fontlab)
 #from FL import * 
 
 # fl.font objeto. fuente actual
@@ -50,7 +49,7 @@ for l in fl.font.glyphs:
 	
 	
 	
-# lo mismo pero c variables	
+# lo mismo pero usando variables	
 """
 #3
 mifuente = fl.font
