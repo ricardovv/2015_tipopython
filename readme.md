@@ -1,6 +1,6 @@
 ![Ustedes y programacion](http://meseconomie.com/wp-content/uploads/2012/07/chat-hugs.jpg)
 
-Diseñadores y código pueden ser buenos amigos!
+los diseñadores y Python pueden convertirse en buenos amigos!
 
 # Clase Phyton I y II.
 ###### Martes 14 de julio | Profesor [Ricardo Vega](www.ricardov.cl)
@@ -22,7 +22,7 @@ Esta breve clase tiene 2 objetivos principales.
 - Desde la carpeta files, instalar tipografia de prueba EBGaramond-0.016.zip
 
 #### - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - -
-#####ESTRUCTURA DE LA CLASE
+#####ESTRUCTURA
 #### - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - -
 
 ### A- Intro a Programación con Drawbot (20)
@@ -45,7 +45,7 @@ Esta breve clase tiene 2 objetivos principales.
 - B8- Empaquetar: Clases, ejemplo 3 basado en [Gustavo Ferreira](https://gist.github.com/gferreira/10da8431c22a205d4ca1)
 
 #### - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - -
-#####Pausa 10 mins.
+#####Pausa
 #### - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - -
 
 ### C- Programación de rutinas en FontLab (FL) (30)
