@@ -1,7 +1,11 @@
 ![Ustedes y programacion](http://meseconomie.com/wp-content/uploads/2012/07/chat-hugs.jpg)
 
+Diseñadores y código pueden ser buenos amigos!
+
 # Clase Phyton I y II.
 ###### Martes 14 de julio | Profesor [Ricardo Vega](www.ricardov.cl)
+Los ejemplos de otras personas han sido usados solo con finalidad académicos y tienen menciones a sus autores correspondientes.
+Examples of other people have been used only for academic purposes and are mentions of their respective authors.
 
 ### Objetivos
 Esta breve clase tiene 2 objetivos principales.
