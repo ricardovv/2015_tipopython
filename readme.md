@@ -2,7 +2,7 @@
 
 Los diseñadores y Python pueden convertirse en buenos amigos!
 
-# Clase Phyton I y II.
+# Clase Phyton I y II (super buena la clase).
 ###### Martes 14 de julio | Profesor [Ricardo Vega M.](www.ricardov.cl)
 Los ejemplos de otras personas han sido usados solo con finalidad académicos y tienen menciones a sus autores correspondientes.
 Examples of other people have been used only for academic purposes and are mentions of their respective authors.

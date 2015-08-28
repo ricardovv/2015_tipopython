@@ -7,11 +7,10 @@
 
 
  
-"""
 #1 arrays de un mismo elemento o tipo de datos
 iguales = [1, 50, 45, -4]
 print iguales
-"""
+
 
 
 
@@ -35,7 +34,7 @@ for mono in personajes:
 """ 
 
 
-
+"""
 #4 agrupar y representar datos
 nombre  = ["juan", "maria", "alicia", "pancho", "lucho"]
 edad     = [30, 45, 16, 28, 87]
@@ -49,5 +48,5 @@ for i in range(0, largo):
     fill(0)
     fontSize(20)
     textBox(nombre[i], (posx, 170, 200, 30) )
-
+"""
 
